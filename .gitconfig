@@ -1,0 +1,4 @@
+[user]
+        email = wfreitas@nvidia.com
+[include]
+        path = ./.user_gitconfig
