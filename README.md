@@ -1,5 +1,5 @@
 # Unix home dir configuration
-# Git cloning
+## Git cloning
 ```
 $ cd ~
 $ git clone ...
